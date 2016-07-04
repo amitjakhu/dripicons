@@ -1,0 +1,12 @@
+{
+  "name": "dripicons",
+  "version": "2.0.0",
+  "description": "A completely free vector line-icon font by Amit Jakhu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitjakhu/dripicons.git"
+  },
+  "author": "Amit Jakhu",
+  "license": "CC BY-SA 4.0",
+  "homepage": "http://demo.amitjakhu.com/dripicons/"
+}
