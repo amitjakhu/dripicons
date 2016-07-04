@@ -335,6 +335,9 @@
 .dripicons-heart:before {
   content: "\e004";
 }
+.dripicons-heart-filled:before {
+  content: "\e06a";
+}
 .dripicons-help:before {
   content: "\e005";
 }
@@ -529,6 +532,9 @@
 }
 .dripicons-star:before {
   content: "\e045";
+}
+.dripicons-star-filled:before {
+  content: "\e06b";
 }
 .dripicons-stopwatch:before {
   content: "\e046";
