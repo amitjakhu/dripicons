@@ -644,3 +644,63 @@
 .dripicons-zoom-out:before {
   content: "\e069";
 }
+.dripicons-share:before {
+  content: "\e06c";
+}
+.dripicons-chair:before {
+  content: "\e06d";
+}
+.dripicons-twitter:before {
+  content: "\e06e";
+}
+.dripicons-spotify:before {
+  content: "\e06f";
+}
+.dripicons-pinterest:before {
+  content: "\e070";
+}
+.dripicons-youtube:before {
+  content: "\e071";
+}
+.dripicons-instagram:before {
+  content: "\e072";
+}
+.dripicons-facebook:before {
+  content: "\e073";
+}
+.dripicons-airplane:before {
+  content: "\e074";
+}
+.dripicons-cities:before {
+  content: "\e076";
+}
+.dripicons-deserts-canyons:before {
+  content: "\e077";
+}
+.dripicons-beaches:before {
+  content: "\e078";
+}
+.dripicons-camping:before {
+  content: "\e075";
+}
+.dripicons-hostel:before {
+  content: "\e079";
+}
+.dripicons-hotel:before {
+  content: "\e07a";
+}
+.dripicons-national-parks:before {
+  content: "\e07b";
+}
+.dripicons-mountains:before {
+  content: "\e07c";
+}
+.dripicons-large-group:before {
+  content: "\e07d";
+}
+.dripicons-small-group:before {
+  content: "\e07e";
+}
+.dripicons-wildlife:before {
+  content: "\e07f";
+}
